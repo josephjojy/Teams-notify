@@ -1,6 +1,6 @@
 const request = require('request-promise');
 
-const hook = '00ada4e7-5df7-4d64-8c0e-49bd56e32442@61803a52-a8b2-4f9c-a024-e9dfa8d68034/IncomingWebhook/556cddc746cb47f1857f6d243883bf70/c7a999bf-f7a1-41ea-85c5-c11457289bee';
+const hook = '<hook ID>';
 
 const getData = async function(){
 
